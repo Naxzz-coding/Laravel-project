@@ -1,0 +1,126 @@
+[14-Aug-2025 20:04:19 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:19 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:20 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:20 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:21 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:21 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:04:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:41:59 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:41:59 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:41:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:44:20 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:44:20 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:44:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:54:20 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:54:20 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 20:54:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 21:32:58 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 21:32:58 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 21:32:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 21:32:58 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 21:32:58 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 21:32:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:19:14 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:19:14 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:19:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:35:31 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:35:31 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:35:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:42:08 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:42:08 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 22:42:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 23:10:29 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 23:10:29 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[14-Aug-2025 23:10:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 01:20:33 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 01:20:33 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 01:20:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:02:18 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:02:18 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:02:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:09:13 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:09:13 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:09:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:09:15 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:09:15 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:09:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:14:23 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:14:23 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 02:14:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:22:49 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:22:49 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:22:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:34:31 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:34:31 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:34:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:39:49 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:39:49 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:39:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:39:50 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:39:50 UTC] PHP Warning:  require(/home/sodasho3/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/sodasho3/public_html/index.php on line 14
+[15-Aug-2025 04:39:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/sodasho3/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/sodasho3/public_html/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sodasho3/public_html/index.php on line 14
